@@ -1,4 +1,4 @@
-package lacosForAndWhile;
+package PraticasForAndWhile;
 
 public class PulandoNumeros5 {
     public static void main(String[] args) {

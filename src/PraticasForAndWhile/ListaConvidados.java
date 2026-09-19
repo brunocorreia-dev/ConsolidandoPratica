@@ -1,4 +1,4 @@
-package lacosForAndWhile;
+package PraticasForAndWhile;
 
 import java.util.ArrayList;
 import java.util.Scanner;

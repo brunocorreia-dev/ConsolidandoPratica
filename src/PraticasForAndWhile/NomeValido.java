@@ -1,4 +1,4 @@
-package lacosForAndWhile;
+package PraticasForAndWhile;
 
 import java.io.FileWriter;
 import java.util.Scanner;

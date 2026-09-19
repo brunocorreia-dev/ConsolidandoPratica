@@ -1,4 +1,4 @@
-package lacosForAndWhile;
+package PraticasForAndWhile;
 
 // for (inicializacao; condicao; atualizacao)
 
@@ -8,7 +8,6 @@ package lacosForAndWhile;
 //    * bloco de codigo
 //    } while (condicao)
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class sintaxeForWhile {
